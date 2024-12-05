@@ -7,7 +7,7 @@ export default defineConfig({
 		hmr: {
 			protocol: 'ws',
 			host: 'localhost',
-			port: 3100,
+			port: 5173,
 		},
 		open: true,
 		watch: {

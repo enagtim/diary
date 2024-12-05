@@ -1,0 +1,13 @@
+:root {
+    --primary-blue: #312eb5;
+    --primary-white: #FFFFFF;
+    --primary-black: #1F1F1F;
+    --primary-grey: #2F2F2F;
+    --secondary-grey: #797979;
+    --secondary-grey-2: #A5A5A5;
+}
+body {
+    font-family: "Source Code Pro", monospace;
+    font-style: normal;
+    font-weight: 400;
+}
